@@ -76,6 +76,6 @@ $ToolBar-size: 52px;
 	@include opacity(1);
 	@include transform-origin(99% 99%);	
 	@include scale(0.01);
-	
+	bottom: 1px;
 
 }
